@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/6a92e81c-b9ca-4aad-8734-b45bfaf28cb4)
 
 Backend integration.
-![image](https://github.com/user-attachments/assets/68100427-896a-4a3b-a8d5-b581997ae5cf)
+![image](https://github.com/user-attachments/assets/11752587-0b75-4482-91ee-bcb9a5d1f8c4)
 
 
 # Getting Started with Create React App
